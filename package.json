@@ -1,0 +1,19 @@
+{
+  "name": "web-audio-project",
+  "version": "1.0.0",
+  "description": "Music project",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Poushita Guha",
+  "license": "ISC",
+  "dependencies": {
+    "@tonaljs/scale": "^3.2.3",
+    "audiokeys": "^0.1.1",
+    "lodash": "^4.17.15",
+    "tone": "^13.8.25",
+    "webmidi": "^2.5.1"
+  }
+}
